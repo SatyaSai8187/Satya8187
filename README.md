@@ -1,5 +1,4 @@
-Hello ! I am SatyasaiYedida
+Hello🖐️! I am SatyasaiYedida
 
-I am currently Learning on ReactNative
-
+✍️I am currently Learning on ReactNative.
 
